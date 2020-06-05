@@ -117,4 +117,9 @@
 - [COVID DashBoard for Policy Makers](https://covid19kol.herokuapp.com/) (Built in consultation with isical Kolkata for intervention monitoring)
 
 ---
+
+- [COVID-19-Tracker](https://aakashmangla2000.github.io/Covid-19-India-Website/)
+    - By: [@aakashmangla2000](https://github.com/Aakashmangla2000)
+
+---
     
