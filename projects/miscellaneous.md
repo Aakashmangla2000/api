@@ -122,4 +122,9 @@
     - By: [@aakashmangla2000](https://github.com/Aakashmangla2000)
 
 ---
+
+- [COVID-19 Tracker for India (React App)](https://covid19indiastatus-da4dc.web.app) (State and District wise figures)
+    - By: [@mehulsengupta](https://github.com/mehulsengupta/)
+
+---
     
